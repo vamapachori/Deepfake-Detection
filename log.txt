@@ -1,0 +1,222 @@
+C:\kandikits\deepfake-detection already exists 
+START TIME : 18:31:43.94 
+Microsoft Visual C++ Redistributable already downloaded 
+Installing Microsoft Visual C++ Redistributable ... 
+Microsoft Visual C++ Redistributable has been installed 
+The detected version of python is  
+A valid python is detected at system level 
+Installing dependent modules ... 
+
+BITSADMIN version 3.0
+BITS administration utility.
+(C) Copyright Microsoft Corp.
+
+Transfer complete.
+C:\kandikits\python\3.9.8;D:\vm ware\bin\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Users\HP\AppData\Local\Programs\Python\Python36\Scripts;C:\Users\HP\AppData\Roaming\npm 
+Requirement already satisfied: virtualenv in c:\kandikits\python\3.9.8\lib\site-packages (20.25.1)
+Requirement already satisfied: distlib<1,>=0.3.7 in c:\kandikits\python\3.9.8\lib\site-packages (from virtualenv) (0.3.8)
+Requirement already satisfied: filelock<4,>=3.12.2 in c:\kandikits\python\3.9.8\lib\site-packages (from virtualenv) (3.13.1)
+Requirement already satisfied: platformdirs<5,>=3.9.1 in c:\kandikits\python\3.9.8\lib\site-packages (from virtualenv) (4.2.0)
+created virtual environment CPython3.9.8.final.0-64 in 7425ms
+  creator CPython3Windows(dest=C:\kandikits\deepfake-detection\deepfake-detection-env, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\HP\AppData\Local\pypa\virtualenv)
+    added seed packages: Babel==2.14.0, Jinja2==3.1.3, MarkupSafe==2.1.5, Pillow==9.4.0, PyYAML==6.0.1, QtPy==2.4.1, Send2Trash==1.8.2, aiofiles==23.2.1, aiohttp==3.9.3, aiosignal==1.3.1, altair==5.2.0, annotated_types==0.6.0, anyio==4.3.0, argon2_cffi==23.1.0, argon2_cffi_bindings==21.2.0, arrow==1.3.0, asttokens==2.4.1, async_lru==2.0.4, async_timeout==4.0.3, attrs==23.2.0, beautifulsoup4==4.12.3, bleach==6.1.0, certifi==2024.2.2, cffi==1.16.0, charset_normalizer==3.3.2, click==8.1.7, colorama==0.4.6, comm==0.2.2, contourpy==1.2.0, cycler==0.12.1, debugpy==1.8.1, decorator==5.1.1, defusedxml==0.7.1, exceptiongroup==1.2.0, executing==2.0.1, facenet_pytorch==2.5.2, fastapi==0.110.0, fastjsonschema==2.19.1, ffmpy==0.3.2, filelock==3.13.1, fonttools==4.50.0, fqdn==1.5.1, frozenlist==1.4.1, fsspec==2024.3.1, grad_cam==1.4.6, gradio==3.39.0, gradio_client==0.13.0, h11==0.14.0, httpcore==1.0.4, httpx==0.27.0, huggingface_hub==0.21.4, idna==3.6, importlib_metadata==7.1.0, importlib_resources==6.4.0, ipykernel==6.29.3, ipython==8.18.1, ipywidgets==8.1.2, isoduration==20.11.0, jedi==0.19.1, joblib==1.3.2, json5==0.9.24, jsonpointer==2.4, jsonschema==4.21.1, jsonschema_specifications==2023.12.1, jupyter==1.0.0, jupyter_client==8.6.1, jupyter_console==6.6.3, jupyter_core==5.7.2, jupyter_events==0.10.0, jupyter_lsp==2.2.4, jupyter_server==2.13.0, jupyter_server_terminals==0.5.3, jupyterlab==4.1.5, jupyterlab_pygments==0.3.0, jupyterlab_server==2.25.4, jupyterlab_widgets==3.0.10, kiwisolver==1.4.5, linkify_it_py==2.0.3, markdown_it_py==2.2.0, matplotlib==3.8.3, matplotlib_inline==0.1.6, mdit_py_plugins==0.3.3, mdurl==0.1.2, mistune==3.0.2, multidict==6.0.5, nbclient==0.10.0, nbconvert==7.16.3, nbformat==5.10.3, nest_asyncio==1.6.0, notebook==7.1.2, notebook_shim==0.2.4, numpy==1.26.4, opencv_python==4.7.0.72, orjson==3.9.15, overrides==7.7.0, packaging==24.0, pandas==2.2.1, pandocfilters==1.5.1, parso==0.8.3, pip==24.0, platformdirs==4.2.0, prometheus_client==0.20.0, prompt_toolkit==3.0.43, psutil==5.9.8, pure_eval==0.2.2, pycparser==2.21, pydantic==2.6.4, pydantic_core==2.16.3, pydub==0.25.1, pygments==2.17.2, pyparsing==3.1.2, python_dateutil==2.9.0.post0, python_json_logger==2.0.7, python_multipart==0.0.9, pytz==2024.1, pywin32==306, pywinpty==2.0.13, pyzmq==25.1.2, qtconsole==5.5.1, referencing==0.34.0, requests==2.31.0, rfc3339_validator==0.1.4, rfc3986_validator==0.1.1, rpds_py==0.18.0, scikit_learn==1.4.1.post1, scipy==1.12.0, semantic_version==2.10.0, setuptools==69.5.1, six==1.16.0, sniffio==1.3.1, soupsieve==2.5, stack_data==0.6.3, starlette==0.36.3, terminado==0.18.1, threadpoolctl==3.4.0, tinycss2==1.2.1, tomli==2.0.1, toolz==0.12.1, torch==1.11.0, torchvision==0.12.0, tornado==6.4, tqdm==4.66.2, traitlets==5.14.2, ttach==0.0.3, types_python_dateutil==2.9.0.20240316, typing_extensions==4.10.0, tzdata==2024.1, uc_micro_py==1.0.3, uri_template==1.3.0, urllib3==2.2.1, uvicorn==0.29.0, wcwidth==0.2.13, webcolors==1.13, webencodings==0.5.1, websocket_client==1.7.0, websockets==11.0.3, wheel==0.43.0, widgetsnbextension==4.0.10, yarl==1.9.4, zipp==3.18.1
+  activators BashActivator,BatchActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+C:\kandikits\deepfake-detection\deepfake-detection-env\Scripts 
+C:\kandikits\deepfake-detection 
+Requirement already satisfied: pip in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (24.0)
+Requirement already satisfied: setuptools in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (69.5.1)
+Requirement already satisfied: wheel in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (0.43.0)
+Requirement already satisfied: jupyter==1.0.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from -r requirements.txt (line 1)) (1.0.0)
+Requirement already satisfied: gradio==3.39.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from -r requirements.txt (line 2)) (3.39.0)
+Requirement already satisfied: Pillow==9.4.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from -r requirements.txt (line 3)) (9.4.0)
+Requirement already satisfied: facenet-pytorch==2.5.2 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from -r requirements.txt (line 4)) (2.5.2)
+Requirement already satisfied: torch==1.11.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from -r requirements.txt (line 5)) (1.11.0)
+Requirement already satisfied: opencv-python==4.7.0.72 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from -r requirements.txt (line 6)) (4.7.0.72)
+Requirement already satisfied: grad-cam==1.4.6 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from -r requirements.txt (line 7)) (1.4.6)
+Requirement already satisfied: notebook in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter==1.0.0->-r requirements.txt (line 1)) (7.1.2)
+Requirement already satisfied: qtconsole in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter==1.0.0->-r requirements.txt (line 1)) (5.5.1)
+Requirement already satisfied: jupyter-console in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter==1.0.0->-r requirements.txt (line 1)) (6.6.3)
+Requirement already satisfied: nbconvert in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter==1.0.0->-r requirements.txt (line 1)) (7.16.3)
+Requirement already satisfied: ipykernel in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter==1.0.0->-r requirements.txt (line 1)) (6.29.3)
+Requirement already satisfied: ipywidgets in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter==1.0.0->-r requirements.txt (line 1)) (8.1.2)
+Requirement already satisfied: aiofiles<24.0,>=22.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (23.2.1)
+Requirement already satisfied: aiohttp~=3.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (3.9.3)
+Requirement already satisfied: altair<6.0,>=4.2.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (5.2.0)
+Requirement already satisfied: fastapi in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (0.110.0)
+Requirement already satisfied: ffmpy in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (0.3.2)
+Requirement already satisfied: gradio-client>=0.3.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (0.13.0)
+Requirement already satisfied: httpx in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (0.27.0)
+Requirement already satisfied: huggingface-hub>=0.14.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (0.21.4)
+Requirement already satisfied: jinja2<4.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (3.1.3)
+Requirement already satisfied: markdown-it-py>=2.0.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from markdown-it-py[linkify]>=2.0.0->gradio==3.39.0->-r requirements.txt (line 2)) (2.2.0)
+Requirement already satisfied: markupsafe~=2.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (2.1.5)
+Requirement already satisfied: matplotlib~=3.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (3.8.3)
+Requirement already satisfied: mdit-py-plugins<=0.3.3 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (0.3.3)
+Requirement already satisfied: numpy~=1.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (1.26.4)
+Requirement already satisfied: orjson~=3.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (3.9.15)
+Requirement already satisfied: packaging in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (24.0)
+Requirement already satisfied: pandas<3.0,>=1.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (2.2.1)
+Requirement already satisfied: pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,<3.0.0,>=1.7.4 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (2.6.4)
+Requirement already satisfied: pydub in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (0.25.1)
+Requirement already satisfied: python-multipart in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (0.0.9)
+Requirement already satisfied: pyyaml<7.0,>=5.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (6.0.1)
+Requirement already satisfied: requests~=2.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (2.31.0)
+Requirement already satisfied: semantic-version~=2.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (2.10.0)
+Requirement already satisfied: typing-extensions~=4.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (4.10.0)
+Requirement already satisfied: uvicorn>=0.14.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (0.29.0)
+Requirement already satisfied: websockets<12.0,>=10.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio==3.39.0->-r requirements.txt (line 2)) (11.0.3)
+Requirement already satisfied: torchvision in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from facenet-pytorch==2.5.2->-r requirements.txt (line 4)) (0.12.0)
+Requirement already satisfied: ttach in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from grad-cam==1.4.6->-r requirements.txt (line 7)) (0.0.3)
+Requirement already satisfied: tqdm in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from grad-cam==1.4.6->-r requirements.txt (line 7)) (4.66.2)
+Requirement already satisfied: scikit-learn in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from grad-cam==1.4.6->-r requirements.txt (line 7)) (1.4.1.post1)
+Requirement already satisfied: aiosignal>=1.1.2 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from aiohttp~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (1.3.1)
+Requirement already satisfied: attrs>=17.3.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from aiohttp~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (23.2.0)
+Requirement already satisfied: frozenlist>=1.1.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from aiohttp~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (1.4.1)
+Requirement already satisfied: multidict<7.0,>=4.5 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from aiohttp~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (6.0.5)
+Requirement already satisfied: yarl<2.0,>=1.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from aiohttp~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (1.9.4)
+Requirement already satisfied: async-timeout<5.0,>=4.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from aiohttp~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (4.0.3)
+Requirement already satisfied: jsonschema>=3.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from altair<6.0,>=4.2.0->gradio==3.39.0->-r requirements.txt (line 2)) (4.21.1)
+Requirement already satisfied: toolz in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from altair<6.0,>=4.2.0->gradio==3.39.0->-r requirements.txt (line 2)) (0.12.1)
+Requirement already satisfied: fsspec in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from gradio-client>=0.3.0->gradio==3.39.0->-r requirements.txt (line 2)) (2024.3.1)
+Requirement already satisfied: anyio in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from httpx->gradio==3.39.0->-r requirements.txt (line 2)) (4.3.0)
+Requirement already satisfied: certifi in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from httpx->gradio==3.39.0->-r requirements.txt (line 2)) (2024.2.2)
+Requirement already satisfied: httpcore==1.* in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from httpx->gradio==3.39.0->-r requirements.txt (line 2)) (1.0.4)
+Requirement already satisfied: idna in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from httpx->gradio==3.39.0->-r requirements.txt (line 2)) (3.6)
+Requirement already satisfied: sniffio in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from httpx->gradio==3.39.0->-r requirements.txt (line 2)) (1.3.1)
+Requirement already satisfied: h11<0.15,>=0.13 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from httpcore==1.*->httpx->gradio==3.39.0->-r requirements.txt (line 2)) (0.14.0)
+Requirement already satisfied: filelock in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from huggingface-hub>=0.14.0->gradio==3.39.0->-r requirements.txt (line 2)) (3.13.1)
+Requirement already satisfied: mdurl~=0.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from markdown-it-py>=2.0.0->markdown-it-py[linkify]>=2.0.0->gradio==3.39.0->-r requirements.txt (line 2)) (0.1.2)
+Requirement already satisfied: linkify-it-py<3,>=1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from markdown-it-py[linkify]>=2.0.0->gradio==3.39.0->-r requirements.txt (line 2)) (2.0.3)
+Requirement already satisfied: contourpy>=1.0.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (1.2.0)
+Requirement already satisfied: cycler>=0.10 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (0.12.1)
+Requirement already satisfied: fonttools>=4.22.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (4.50.0)
+Requirement already satisfied: kiwisolver>=1.3.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (1.4.5)
+Requirement already satisfied: pyparsing>=2.3.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (3.1.2)
+Requirement already satisfied: python-dateutil>=2.7 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (2.9.0.post0)
+Requirement already satisfied: importlib-resources>=3.2.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2)) (6.4.0)
+Requirement already satisfied: pytz>=2020.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from pandas<3.0,>=1.0->gradio==3.39.0->-r requirements.txt (line 2)) (2024.1)
+Requirement already satisfied: tzdata>=2022.7 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from pandas<3.0,>=1.0->gradio==3.39.0->-r requirements.txt (line 2)) (2024.1)
+Requirement already satisfied: annotated-types>=0.4.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,<3.0.0,>=1.7.4->gradio==3.39.0->-r requirements.txt (line 2)) (0.6.0)
+Requirement already satisfied: pydantic-core==2.16.3 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,<3.0.0,>=1.7.4->gradio==3.39.0->-r requirements.txt (line 2)) (2.16.3)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from requests~=2.0->gradio==3.39.0->-r requirements.txt (line 2)) (3.3.2)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from requests~=2.0->gradio==3.39.0->-r requirements.txt (line 2)) (2.2.1)
+Requirement already satisfied: colorama in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from tqdm->grad-cam==1.4.6->-r requirements.txt (line 7)) (0.4.6)
+Requirement already satisfied: click>=7.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from uvicorn>=0.14.0->gradio==3.39.0->-r requirements.txt (line 2)) (8.1.7)
+Requirement already satisfied: starlette<0.37.0,>=0.36.3 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from fastapi->gradio==3.39.0->-r requirements.txt (line 2)) (0.36.3)
+Requirement already satisfied: comm>=0.1.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.2.2)
+Requirement already satisfied: debugpy>=1.6.5 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (1.8.1)
+Requirement already satisfied: ipython>=7.23.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (8.18.1)
+Requirement already satisfied: jupyter-client>=6.1.12 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (8.6.1)
+Requirement already satisfied: jupyter-core!=5.0.*,>=4.12 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (5.7.2)
+Requirement already satisfied: matplotlib-inline>=0.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.1.6)
+Requirement already satisfied: nest-asyncio in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (1.6.0)
+Requirement already satisfied: psutil in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (5.9.8)
+Requirement already satisfied: pyzmq>=24 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (25.1.2)
+Requirement already satisfied: tornado>=6.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (6.4)
+Requirement already satisfied: traitlets>=5.4.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (5.14.2)
+Requirement already satisfied: widgetsnbextension~=4.0.10 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipywidgets->jupyter==1.0.0->-r requirements.txt (line 1)) (4.0.10)
+Requirement already satisfied: jupyterlab-widgets~=3.0.10 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipywidgets->jupyter==1.0.0->-r requirements.txt (line 1)) (3.0.10)
+Requirement already satisfied: prompt-toolkit>=3.0.30 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-console->jupyter==1.0.0->-r requirements.txt (line 1)) (3.0.43)
+Requirement already satisfied: pygments in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-console->jupyter==1.0.0->-r requirements.txt (line 1)) (2.17.2)
+Requirement already satisfied: beautifulsoup4 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (4.12.3)
+Requirement already satisfied: bleach!=5.0.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (6.1.0)
+Requirement already satisfied: defusedxml in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (0.7.1)
+Requirement already satisfied: importlib-metadata>=3.6 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (7.1.0)
+Requirement already satisfied: jupyterlab-pygments in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (0.3.0)
+Requirement already satisfied: mistune<4,>=2.0.3 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (3.0.2)
+Requirement already satisfied: nbclient>=0.5.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (0.10.0)
+Requirement already satisfied: nbformat>=5.7 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (5.10.3)
+Requirement already satisfied: pandocfilters>=1.4.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (1.5.1)
+Requirement already satisfied: tinycss2 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (1.2.1)
+Requirement already satisfied: jupyter-server<3,>=2.4.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.13.0)
+Requirement already satisfied: jupyterlab-server<3,>=2.22.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.25.4)
+Requirement already satisfied: jupyterlab<4.2,>=4.1.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (4.1.5)
+Requirement already satisfied: notebook-shim<0.3,>=0.2 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.2.4)
+Requirement already satisfied: qtpy>=2.4.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from qtconsole->jupyter==1.0.0->-r requirements.txt (line 1)) (2.4.1)
+Requirement already satisfied: scipy>=1.6.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from scikit-learn->grad-cam==1.4.6->-r requirements.txt (line 7)) (1.12.0)
+Requirement already satisfied: joblib>=1.2.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from scikit-learn->grad-cam==1.4.6->-r requirements.txt (line 7)) (1.3.2)
+Requirement already satisfied: threadpoolctl>=2.0.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from scikit-learn->grad-cam==1.4.6->-r requirements.txt (line 7)) (3.4.0)
+Requirement already satisfied: six>=1.9.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from bleach!=5.0.0->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (1.16.0)
+Requirement already satisfied: webencodings in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from bleach!=5.0.0->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (0.5.1)
+Requirement already satisfied: zipp>=0.5 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from importlib-metadata>=3.6->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (3.18.1)
+Requirement already satisfied: decorator in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (5.1.1)
+Requirement already satisfied: jedi>=0.16 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.19.1)
+Requirement already satisfied: stack-data in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.6.3)
+Requirement already satisfied: exceptiongroup in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (1.2.0)
+Requirement already satisfied: jsonschema-specifications>=2023.03.6 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jsonschema>=3.0->altair<6.0,>=4.2.0->gradio==3.39.0->-r requirements.txt (line 2)) (2023.12.1)
+Requirement already satisfied: referencing>=0.28.4 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jsonschema>=3.0->altair<6.0,>=4.2.0->gradio==3.39.0->-r requirements.txt (line 2)) (0.34.0)
+Requirement already satisfied: rpds-py>=0.7.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jsonschema>=3.0->altair<6.0,>=4.2.0->gradio==3.39.0->-r requirements.txt (line 2)) (0.18.0)
+Requirement already satisfied: platformdirs>=2.5 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-core!=5.0.*,>=4.12->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (4.2.0)
+Requirement already satisfied: pywin32>=300 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-core!=5.0.*,>=4.12->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (306)
+Requirement already satisfied: argon2-cffi in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (23.1.0)
+Requirement already satisfied: jupyter-events>=0.9.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.10.0)
+Requirement already satisfied: jupyter-server-terminals in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.5.3)
+Requirement already satisfied: overrides in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (7.7.0)
+Requirement already satisfied: prometheus-client in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.20.0)
+Requirement already satisfied: pywinpty in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.0.13)
+Requirement already satisfied: send2trash>=1.8.2 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (1.8.2)
+Requirement already satisfied: terminado>=0.8.3 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.18.1)
+Requirement already satisfied: websocket-client in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (1.7.0)
+Requirement already satisfied: async-lru>=1.0.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyterlab<4.2,>=4.1.1->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.0.4)
+Requirement already satisfied: jupyter-lsp>=2.0.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyterlab<4.2,>=4.1.1->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.2.4)
+Requirement already satisfied: tomli in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyterlab<4.2,>=4.1.1->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.0.1)
+Requirement already satisfied: babel>=2.10 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyterlab-server<3,>=2.22.1->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.14.0)
+Requirement already satisfied: json5>=0.9.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyterlab-server<3,>=2.22.1->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.9.24)
+Requirement already satisfied: uc-micro-py in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from linkify-it-py<3,>=1->markdown-it-py[linkify]>=2.0.0->gradio==3.39.0->-r requirements.txt (line 2)) (1.0.3)
+Requirement already satisfied: fastjsonschema in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from nbformat>=5.7->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (2.19.1)
+Requirement already satisfied: wcwidth in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from prompt-toolkit>=3.0.30->jupyter-console->jupyter==1.0.0->-r requirements.txt (line 1)) (0.2.13)
+Requirement already satisfied: soupsieve>1.2 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from beautifulsoup4->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1)) (2.5)
+Requirement already satisfied: parso<0.9.0,>=0.8.3 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jedi>=0.16->ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.8.3)
+Requirement already satisfied: python-json-logger>=2.0.4 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.0.7)
+Requirement already satisfied: rfc3339-validator in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.1.4)
+Requirement already satisfied: rfc3986-validator>=0.1.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (0.1.1)
+Requirement already satisfied: argon2-cffi-bindings in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from argon2-cffi->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (21.2.0)
+Requirement already satisfied: executing>=1.2.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from stack-data->ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (2.0.1)
+Requirement already satisfied: asttokens>=2.1.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from stack-data->ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (2.4.1)
+Requirement already satisfied: pure-eval in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from stack-data->ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1)) (0.2.2)
+Requirement already satisfied: fqdn in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (1.5.1)
+Requirement already satisfied: isoduration in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (20.11.0)
+Requirement already satisfied: jsonpointer>1.13 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.4)
+Requirement already satisfied: uri-template in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (1.3.0)
+Requirement already satisfied: webcolors>=1.11 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (1.13)
+Requirement already satisfied: cffi>=1.0.1 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from argon2-cffi-bindings->argon2-cffi->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (1.16.0)
+Requirement already satisfied: pycparser in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from cffi>=1.0.1->argon2-cffi-bindings->argon2-cffi->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.21)
+Requirement already satisfied: arrow>=0.15.0 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from isoduration->jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (1.3.0)
+Requirement already satisfied: types-python-dateutil>=2.8.10 in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (from arrow>=0.15.0->isoduration->jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1)) (2.9.0.20240316)
+deepfake-detection.zip already available in location 
+END TIME : 18:32:28.22 
+[I 2024-05-14 18:36:23.916 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-05-14 18:36:23.920 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-05-14 18:36:23.924 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-05-14 18:36:23.928 ServerApp] notebook | extension was successfully linked.
+[I 2024-05-14 18:36:24.262 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-05-14 18:36:24.285 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-05-14 18:36:24.287 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-05-14 18:36:24.288 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-05-14 18:36:24.290 LabApp] JupyterLab extension loaded from C:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages\jupyterlab
+[I 2024-05-14 18:36:24.290 LabApp] JupyterLab application directory is C:\kandikits\deepfake-detection\deepfake-detection-env\share\jupyter\lab
+[I 2024-05-14 18:36:24.291 LabApp] Extension Manager is 'pypi'.
+[I 2024-05-14 18:36:24.305 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-05-14 18:36:24.308 ServerApp] notebook | extension was successfully loaded.
+[I 2024-05-14 18:36:24.309 ServerApp] Serving notebooks from local directory: C:\kandikits\deepfake-detection\deepfake-detection
+[I 2024-05-14 18:36:24.309 ServerApp] Jupyter Server 2.13.0 is running at:
+[I 2024-05-14 18:36:24.309 ServerApp] http://localhost:8888/tree?token=c49bb9554da19970e9a34da0f8aee245401951a4818aac6a
+[I 2024-05-14 18:36:24.309 ServerApp]     http://127.0.0.1:8888/tree?token=c49bb9554da19970e9a34da0f8aee245401951a4818aac6a
+[I 2024-05-14 18:36:24.309 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-05-14 18:36:24.351 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///C:/Users/HP/AppData/Roaming/jupyter/runtime/jpserver-16168-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=c49bb9554da19970e9a34da0f8aee245401951a4818aac6a
+        http://127.0.0.1:8888/tree?token=c49bb9554da19970e9a34da0f8aee245401951a4818aac6a
+[I 2024-05-14 18:36:25.629 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-05-14 18:36:25.759 JupyterNotebookApp] 302 GET /tree/Deepfake_detection.ipynb?token=[secret] (425f4bddbc3b4cf59885ad386345aba9@::1) 2.00ms
+[I 2024-05-14 18:36:28.973 ServerApp] Kernel started: f5012a3f-77b6-4bb0-9129-b1feab007d22
+0.00s - Debugger warning: The os.path.realpath.__code__.co_filename (ntpath.py)
+0.00s - is not absolute, which may make the debugger miss breakpoints.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-05-14 18:36:30.001 ServerApp] Connecting to kernel f5012a3f-77b6-4bb0-9129-b1feab007d22.
+[I 2024-05-14 18:36:30.019 ServerApp] Connecting to kernel f5012a3f-77b6-4bb0-9129-b1feab007d22.
+[I 2024-05-14 18:36:30.039 ServerApp] Connecting to kernel f5012a3f-77b6-4bb0-9129-b1feab007d22.
